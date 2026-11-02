@@ -30,6 +30,10 @@ header {
   margin-bottom: 32px;
 }
 
+header nav a {
+  font-weight: 500;
+}
+
 nav a {
   margin-left: 16px;
   text-decoration: none;
