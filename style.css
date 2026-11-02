@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #333;
+  padding-bottom: 12px;
+  margin-bottom: 32px;
+}
+
+nav a {
+  margin-left: 16px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  border-top: 1px solid #333;
+  margin-top: 48px;
+  padding-top: 12px;
+  font-size: 0.9em;
+  color: #888;
+}
