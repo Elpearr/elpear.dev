@@ -5,11 +5,6 @@
   font-style: normal;
 }
 
-.helveticaBold {
-  font-family: "Helvetica", sans-serif;
-  src: url("fonts/Helvetica-Bold.woff2") format("woff2");
-}
-
 body {
   font-family: "Helvetica";
   background: #111;
