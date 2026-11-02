@@ -1,12 +1,12 @@
 .bitterText {
-  font-family: "Bitter", sans-serif;
+  font-family: "Bitter", serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
 
 body {
-  font-family: "Helvetica";
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #111;
   color: #eee;
   max-width: 600px;
@@ -14,10 +14,6 @@ body {
   padding: 0 20px;
   line-height: 1.6;
 }
-
-/*h1 {
-  font-family: "Helvetica", sans-serif;
-}*/
 
 a {
   color: #9fd36b;
