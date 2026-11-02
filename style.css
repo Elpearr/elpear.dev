@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Manrope", sans-serif;
   background: #111;
   color: #eee;
   max-width: 600px;
@@ -20,6 +20,8 @@ a {
 }
 
 header {
+  font-family: "Bitter", serif;
+  font-weight: 700;
   display: flex;
   justify-content: space-between;
   align-items: center;
